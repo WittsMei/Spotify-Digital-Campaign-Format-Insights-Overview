@@ -21,3 +21,7 @@
 - **Format**: Specific campaign formats like Welcome Series, Search Ads, Sponsored Posts, etc.
 - **Campaign Type**: Acquisition, Retention, Re-engagement.
 - **Time Period**: Year, Month.
+
+
+
+## Summary of Insights
