@@ -1,7 +1,7 @@
 # Spotify-Digital-Campaign-Format-Insights
 
 
-## The goal of this project is to investigate the performance of Spotify's digital marketing campaigns across different platforms and formats, with the aim of surfacing recommendations on marketing budget allocation for future campaigns.
+## The goal of this project is to investigate the performance of Spotify's digital marketing campaigns across various platforms and formats to surface recommendations for optimizing marketing budget allocation in future campaigns.
 
 **Spotify, a leading music streaming service, has a vast user base across the globe.** To expand its user base further, Spotify has been running various digital marketing campaigns outside of its app since 2019. These campaigns span multiple platforms, including Email, SEO & SEM, and Social Media, and utilize various formats such as Welcome Series, Display Ads, Sponsored Posts, and more. Each platform and format is designed to target potential users and encourage them to sign up for Spotify's services.
 
