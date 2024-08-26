@@ -24,3 +24,40 @@
 
 
 ## Summary of Insights
+
+
+### Click-Through Rate
+- 
+- 
+- 
+
+### Sign-Up Rate
+- 
+- 
+- 
+
+### Cost per Sign-Up
+- 
+- 
+- 
+
+
+
+## Recommendations & Next Step
+- 
+- 
+- 
+
+
+
+
+## Dashboard
+The dashboard can be found in Tableau Public here.
+
+
+
+
+
+
+
+
