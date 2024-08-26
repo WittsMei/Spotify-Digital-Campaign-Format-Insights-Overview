@@ -5,12 +5,9 @@
 
 **Spotify, a leading music streaming service, has a vast user base across the globe.** To expand its user base further, Spotify has been running various digital marketing campaigns outside of its app since 2019. These campaigns span multiple platforms, including Email, SEO & SEM, and Social Media, and utilize various formats such as Welcome Series, Display Ads, Sponsored Posts, and more. Each platform and format is designed to target potential users and encourage them to sign up for Spotify's services.
 
-With the increasing competition in the music streaming industry, Spotify is looking to optimize its marketing strategy. The company is particularly interested in understanding how different campaign formats and platforms contribute to user sign-ups and overall brand awareness. This project aims to provide insights into the effectiveness of these digital marketing campaigns, helping Spotify allocate its marketing budget more effectively in the future.
+With the music streaming industry becoming increasingly competitive, Spotify is keen on optimizing its marketing strategy. The company aims to understand how different campaign formats and platforms contribute to user sign-ups and overall brand awareness. This project will provide valuable insights into the effectiveness of these digital marketing campaigns, guiding Spotify in allocating its marketing budget more strategically in the future.
 
-Now, as Spotify prepares to strategize its marketing budget for the coming year, the company has enlisted a new data team to assess the effectiveness of these campaigns. The primary objectives are twofold: 1) to boost the number of new sign-ups, and 2) to enhance the overall brand presence across multiple digital channels.
-
-The company seeks to understand how different campaign formats and platforms contribute to these goals, enabling more informed decisions on future budget allocations. By investigating the performance of past campaigns, Spotify aims to refine its marketing strategies, ensuring optimal use of resources and maximizing returns on investment.
-
+As Spotify strategizes its marketing budget for the upcoming year, a newly formed data team has been tasked with evaluating the success of past campaigns. The company’s primary objectives are twofold: 1) to significantly increase the number of new sign-ups, and 2) to enhance Spotify’s brand presence across various digital channels.
 
 
 ## Data Structure
