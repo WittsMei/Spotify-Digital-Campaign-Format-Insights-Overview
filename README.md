@@ -14,7 +14,6 @@
 
 ## North Star Metrics & Dimensions
 - **Click-Through Rate (CTR)**: The percentage of impressions that resulted in clicks.
-- **Cost per Click (CPC)**: The total cost divided by the number of Clicks.
 - **Sign-Up Rate**: The percentage of impressions that lead to sign-ups across different formats and platforms.
 - **Cost per Sign-Up**: The total cost divided by the number of sign-ups for each campaign, format, and platform.
 - **Platform**: Email, SEO & SEM, Social Media.
