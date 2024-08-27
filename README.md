@@ -5,7 +5,7 @@
 
 **Spotify, a leading music streaming service, has a vast user base across the globe.** To expand its user base further, Spotify has been running various digital marketing campaigns outside of its app since 2019. These campaigns span multiple platforms, including Email, SEO & SEM, and Social Media, and utilize various formats such as Welcome Series, Display Ads, Sponsored Posts, and more. Each platform and format is designed to target potential users and encourage them to sign up for Spotify's services.
 
-With the music streaming industry becoming increasingly competitive, Spotify is keen on optimizing its marketing strategy. The company aims to understand how different campaign formats and platforms contribute to user sign-ups and overall brand awareness. This project will provide valuable insights into the effectiveness of these digital marketing campaigns, guiding Spotify in allocating its marketing budget more strategically in the future.
+To stay competitive amidst evolving technology and shifting user preferences, Spotify aims to refine its marketing strategy by analyzing how different formats and platforms impact user sign-ups and brand awareness. This project will offer insights into campaign effectiveness, aiding in more strategic budget allocation.
 
 As Spotify strategizes its marketing budget for the upcoming year, a newly formed data team has been tasked with evaluating the success of past campaigns. The company’s primary objectives are twofold: 1) to significantly increase the number of new sign-ups, and 2) to enhance Spotify’s brand awareness globally.
 
