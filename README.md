@@ -32,7 +32,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 
 ### Click-Through Rate (CTR)
-- 
+- Across all formats and types, In-Feed Ads  performed nearly 2x better than the lowest CTR 15%.
 - 
 - 
 
@@ -42,10 +42,10 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 - 
 
 ### Cost per Sign-Up
+- Across campaign categories, Welcome Series had by far the highest cost per signup ($8.52), as well as the relative low number of signups (40,092), compared to an average of $1.32.
+- Within the two campaign categories with highest cost per signup, infor-based campaign types (like Brand Awareness, Cross-Sell, Retention, and Seasonal info) drove high costs per signup.
 - 
-- 
-- 
-
+ 
 
 
 ## Recommendations & Next Step
