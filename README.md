@@ -57,7 +57,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 
 ## Dashboard
-The dashboard can be found in Tableau Public here.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/SpofityCampaignFormatDashboard/SpotifyCampaignFormatDashboard).
 
 
 
