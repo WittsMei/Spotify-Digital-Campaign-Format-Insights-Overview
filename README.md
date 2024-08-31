@@ -31,7 +31,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 ## Summary of Insights
 
 
-### Click-Through Rate
+### Click-Through Rate (CTR)
 - 
 - 
 - 
