@@ -40,10 +40,6 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 - The high sign-up rate for Carousel Ads is primarily due to the Retention campaign type, which had the highest sign-up rate across all campaign types at 0.217%.
 - Interestingly, despite having the highest sign-up rate, Carousel Ads had the lowest sign-up count, with only 7,475 sign-ups.
 
-Across campaign categories, Health for All campaigns had the best-performing signup rate (2.9%) and the second-highest number of signups (3.5K).
-This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (3.72%).
-Interestingly, the category with the highest number of signups - #HealthyLiving - had a comparably low signup rate at 0.3%.
-
 
 ### Cost per Sign-Up
 - Across campaign categories, Welcome Series had by far the highest cost per signup ($8.52), as well as the relative low number of signups (40,092), compared to an average of $1.32.
