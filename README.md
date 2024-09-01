@@ -1,11 +1,11 @@
-# Spotify-Digital-Campaign-Format-Insights
+# Spotify-Digital-Campaign-Insights
 
 
-## The goal of this project is to investigate the performance of Spotify's digital marketing campaigns across various platforms and formats to surface recommendations for optimizing marketing budget allocation in future campaigns.
+## The goal of this project is to investigate the performance of Spotify's digital marketing campaigns across all categories to surface recommendations for optimizing marketing budget allocation in future campaigns.
 
-**Spotify, a leading music streaming service, has a vast user base across the globe.** To expand its user base further, Spotify has been running various digital marketing campaigns outside of its app since 2019. These campaigns span multiple platforms, including Email, SEO & SEM, and Social Media, and utilize various formats such as Welcome Series, Display Ads, Sponsored Posts, and more. Each platform and format is designed to target potential users and encourage them to sign up for Spotify's services.
+**Spotify, a leading music streaming service, has a vast user base across the globe.** To expand its user base further, Spotify has been running various digital marketing campaigns outside of its app since 2019. These campaigns span multiple platforms, including Email, SEO & SEM, and Social Media, and utilize various categories such as Welcome Series, Display Ads, Sponsored Posts, and more. Each category is designed to target potential users and encourage them to sign up for Spotify's services.
 
-To stay competitive amidst evolving technology and shifting user preferences, Spotify aims to refine its marketing strategy by analyzing how different formats and platforms impact user sign-ups and brand awareness. This project will offer insights into campaign effectiveness, aiding in more strategic budget allocation.
+To stay competitive amidst evolving technology and shifting user preferences, Spotify aims to refine its marketing strategy by analyzing how different platforms and types impact user sign-ups and brand awareness. This project will offer insights into campaign effectiveness, aiding in more strategic budget allocation.
 
 As Spotify strategizes its marketing budget for the upcoming year, a newly formed data team has been tasked with evaluating the success of past campaigns. The company’s primary objectives are twofold: 1) to significantly increase the number of new sign-ups, and 2) to enhance Spotify’s brand awareness globally.
 
