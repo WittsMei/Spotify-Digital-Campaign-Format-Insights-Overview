@@ -62,7 +62,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 #### Reevaluate Drip Campaigns and Sponsored Posts:
 
-_ Both Drip Campaigns and Sponsored Posts have shown poor performance with the lowest CTRs and sign-up rates. Continuing to invest in these formats without substantial improvement may not be cost-effective.
+- Both Drip Campaigns and Sponsored Posts have shown poor performance with the lowest CTRs and sign-up rates. Continuing to invest in these formats without substantial improvement may not be cost-effective.
 - Action: Conduct A/B testing to explore alternative messaging and targeting strategies for these formats. If performance doesn’t improve, consider reallocating the budget to better-performing formats like Carousel Ads or Influencer Partnerships.
 
 #### Reduce Cost per Sign-Up in Welcome Series Campaigns:
