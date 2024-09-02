@@ -31,9 +31,9 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 
 ### Click-Through Rate (CTR)
-- Across all formats and types, In-Feed Ads  performed nearly 2x better than the lowest CTR 15%.
-- 
-- 
+- Carousel Ads, despite having the lowest impressions, achieved the highest CTR at 5.36%, largely driven by the Retention campaign type, which accounted for 36.02%—a significant contrast to the overall average of 0.88%.
+- Video Ads, although generating the highest impressions, experienced comparatively low CTRs ranging from 0.01% to 0.05%, primarily due to Upsell, Educational, Retention, and Seasonal campaign types. 
+- Both Drip Campaigns and Sponsored Posts not only recorded the lowest CTRs but also had the lowest sign-up rates.
 
 ### Sign-Up Rate
 - Across campaign categories, Carousel Ads and Influencer Partnership campaigns performed 5x and 2x better than the average sign-up rate, with rates of 0.048% and 0.016%, respectively.
