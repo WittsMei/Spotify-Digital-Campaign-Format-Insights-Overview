@@ -31,19 +31,18 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 
 ### Click-Through Rate (CTR)
-- Carousel Ads, despite having the lowest impressions, achieved the highest CTR at 5.36%, largely driven by the Retention campaign type, which accounted for 36.02%—a significant contrast to the overall average of 0.88%.
-- Video Ads, although generating the highest impressions, experienced comparatively low CTRs ranging from 0.01% to 0.05%, primarily due to Upsell, Educational, Retention, and Seasonal campaign types. 
+- Across campaign categories, Carousel Ads achieved the highest CTR at 5.36%, despite having the lowest impressions. This outstanding performance was primarily driven by the Retention campaign type, which recorded an impressive CTR of 36.02%, significantly surpassing the overall average of 0.88%.
+- Although Video Ads generated the highest impressions and sign-ups, they experienced a relatively low CTR of 0.71%. This was largely due to the Upsell, Educational, Retention, and Seasonal campaign types, which posted CTRs ranging from just 0.01% to 0.05%.
 - Both Drip Campaigns and Sponsored Posts not only recorded the lowest CTRs but also had the lowest sign-up rates.
 
 ### Sign-Up Rate
 - Across campaign categories, Carousel Ads and Influencer Partnership campaigns performed 5x and 2x better than the average sign-up rate, with rates of 0.048% and 0.016%, respectively.
 - The high sign-up rate for Carousel Ads was primarily due to the Retention campaign type, which had the highest sign-up rate across all campaign types at 0.217%.
-- Interestingly, despite having the highest sign-up rate, Carousel Ads had the lowest sign-up count, with only 7,475 sign-ups, and the cost per sign-up was comparatively low.
-
+- Interestingly, despite having the highest sign-up rate and relative low cost per sign-up, Carousel Ads generated the fewest total sign-ups, only 7,475.
 
 ### Cost per Sign-Up
 - Across campaign categories, Welcome Series had by far the highest cost per signup ($5.14), as well as the mediocre signup rate (0.008%), compared to an average of $2.07.
-- The Welcome Series with highest cost per signup, Brand Awareness, Re-engagement, and Seasonal campaign types drove high costs per signup ($7-$10).
+- The highest cost per signup of Welcome Series driven by Brand Awareness, Re-engagement, and Seasonal campaign types, ranging from $7 to $10.
 - Search Ads - Acquisition campaign type and Display Ads - Content Promotion campaign type also had extremely high CACs, at $12.54 and $7.94K. Additionally, Search Ads had the lowest Sign-Up Rate (0.005%). 
  
 
