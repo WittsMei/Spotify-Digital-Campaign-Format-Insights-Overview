@@ -37,13 +37,13 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 ### Sign-Up Rate
 - Across campaign categories, Carousel Ads and Influencer Partnership campaigns performed 5x and 2x better than the average sign-up rate, with rates of 0.048% and 0.016%, respectively.
-- The high sign-up rate for Carousel Ads was primarily due to the Retention campaign type, which had the highest sign-up rate across all campaign types at 0.217%.
+- This high sign-up rate for Carousel Ads was primarily due to the Retention campaign type, which had the highest sign-up rate across all campaign types at 0.217%.
 - Interestingly, despite having the highest sign-up rate and relative low cost per sign-up, Carousel Ads generated the fewest total sign-ups, only 7,475.
 
 ### Cost per Sign-Up
-- Across campaign categories, Welcome Series had by far the highest cost per signup ($5.14), as well as the mediocre signup rate (0.008%), compared to an average of $2.07.
-- The highest cost per signup of Welcome Series driven by Brand Awareness, Re-engagement, and Seasonal campaign types, ranging from $7 to $10.
-- Search Ads - Acquisition campaign type and Display Ads - Content Promotion campaign type also had extremely high CACs, at $12.54 and $7.94K. Additionally, Search Ads had the lowest Sign-Up Rate (0.005%). 
+- Across campaign categories, Welcome Series campaigns had the highest cost per sign-up at $5.14, coupled with a mediocre sign-up rate of 0.008% and highest sign-ups, compared to an average of $2.07.
+- The elevated cost per sign-up for Welcome Series was driven by the Brand Awareness, Re-engagement, and Seasonal campaign types, with costs ranging from $7 to $10.
+- Search Ads - Acquisition campaign type and Display Ads - Content Promotion campaign type also faced extremely high CACs, at $12.54 and $7.94K, respectively, with Search Ads having the lowest sign-up rate at 0.005%.
  
 
 
