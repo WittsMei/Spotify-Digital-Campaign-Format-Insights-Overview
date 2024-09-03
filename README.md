@@ -1,4 +1,4 @@
-# Spotify-Digital-Campaign-Insights
+# Spotify-Digital-Marketing-Insights
 
 
 ## The goal of this project is to investigate the performance of Spotify's digital marketing campaigns across all categories to surface recommendations for optimizing marketing budget allocation in future campaigns.
