@@ -11,7 +11,8 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 
 ## Data Structure
-<img width="669" alt="Screenshot 2024-09-03 at 18 13 54" src="https://github.com/user-attachments/assets/32ae7010-cb0e-4fff-a0d9-d082be36d459">
+
+<img width="600" alt="Screenshot 2024-09-03 at 18 15 56" src="https://github.com/user-attachments/assets/28ceb456-ef88-41c2-a8e0-48ebae539b2e">
 
 
 ## North Star Metrics & Dimensions
