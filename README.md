@@ -49,10 +49,10 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 ## Recommendations & Next Step
 
-- **Carousel Ads**: Given their outstanding performance, particularly in the Retention campaign type, it’s advisable to reallocate budget from less effective categories like Drip Campaigns, Sponsored Posts, Search Ads, and Display Ads (Content Promotion campaign type) to Carousel Ads. Additionally, consider expanding the use of Carousel Ads to other relevant campaign types, especially those targeting customer retention, to maximize ROI.
+- **Carousel Ads**: Given their outstanding performance, particularly in the Retention campaign type, it’s advisable to reallocate a portion of budget from less effective categories like Drip Campaigns, Sponsored Posts, Search Ads, and Display Ads (Content Promotion campaign type) to Carousel Ads. Additionally, consider expanding the use of Carousel Ads to other relevant campaign types, especially those targeting customer retention, to maximize ROI.
 - **Influencer Partnerships**: With a sign-up rate twice the average, these campaigns should see increased investment, particularly in the Brand Awareness campaign type. Leveraging influencers to amplify Spotify’s reach can further enhance brand perception and drive sign-ups.
 - **Video Ads**: While Video Ads generate the highest impressions and sign-ups, their low CTR (0.71%) indicates weak engagement. This suggests that while they reach a broad audience, their engagement is relatively weak. Focus on Brand Awareness-type and Cross Cell-type (low cost) marketing, and less on Upsell, Educational, and Seasonal campaign typess, which had low signup rate and CTR.
-- **Welcome Series**: Investigate the cause of high cost per signup for Welcome Series, particularly on Brand Awareness, Re-engagement, and Seasonal campaign types. Also, consider reallocating budget to more cost-effective campaigns, such as Carousel Ads and Influencer Partnerships.
+- **Welcome Series**: Investigate the cause of high cost per signup ($5.14), especially within Brand Awareness, Re-engagement, and Seasonal types. Also, consider reallocating a portion of the budget budget to more cost-effective campaigns, such as Carousel Ads and Influencer Partnerships.
 
 
 
