@@ -3,7 +3,7 @@
 
 ## The goal of this project is to investigate the performance of Spotify's digital marketing campaigns across all categories to surface recommendations for optimizing marketing budget allocation in future campaigns.
 
-**Spotify, a leading music streaming service, has a vast user base across the globe.** To expand its user base further, Spotify has been running various digital marketing campaigns outside of its app since 2019. These campaigns span multiple platforms, including Email, SEO & SEM, and Social Media, and utilize various categories such as Welcome Series, Display Ads, Sponsored Posts, and more. Each category is designed to target potential users and encourage them to sign up for Spotify's services.
+**Spotify, a leading music streaming service, has a vast user base across the globe.** To expand its user base further, Spotify has been running various digital marketing campaigns since 2019. These campaigns span multiple platforms, including Email, SEO & SEM, and Social Media, and utilize various categories such as Welcome Series, Display Ads, Sponsored Posts, and more. Each category is designed to target potential users and encourage them to sign up for Spotify's services.
 
 To stay competitive amidst evolving technology and shifting user preferences, Spotify aims to refine its marketing strategy by analyzing how different platforms and types impact user sign-ups and brand awareness. This project will offer insights into campaign effectiveness, aiding in more strategic budget allocation.
 
