@@ -12,6 +12,9 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 ## Data Structure
 
+The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as engagement filed by customers and related engagement information.
+
+
 <img width="600" alt="Screenshot 2024-09-03 at 18 15 56" src="https://github.com/user-attachments/assets/28ceb456-ef88-41c2-a8e0-48ebae539b2e">
 
 
