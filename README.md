@@ -37,7 +37,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 ### Sign-Up Rate
 - Across campaign categories, Carousel Ads and Influencer Partnership campaigns performed 5x and 2x better than the average sign-up rate, with rates of 0.048% and 0.016%, respectively.
-- This high sign-up rate for Carousel Ads was primarily due to the Retention campaign type, which had the highest sign-up rate across all campaign types at 0.217%.
+- This high sign-up rate for Carousel Ads was primarily due to the Retention campaign type, which by far had the highest sign-up rate across all campaign types (0.217%).
 - Interestingly, despite having the highest sign-up rate and relative low cost per sign-up, Carousel Ads generated the fewest total sign-ups, only 7,475.
 
 ### Cost per Sign-Up
