@@ -55,7 +55,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
   
 - **Video Ads**: While Video Ads generate the highest impressions and sign-ups, their low CTR (0.71%) indicates weak engagement. This indicates that although they reach a wide audience, their ability to convert clicks into sign-ups is limited. To address this, focus on Brand Awareness-type and Cross Cell-type (low cost) marketing, and less on Upsell, Educational, and Seasonal campaign typess, which had low signup rate and CTR.
   
-- **Welcome Series**: Investigate the cause of high cost per signup ($5.14), particularly within Brand Awareness, Re-engagement, and Seasonal types. Also, consider reallocating a portion of the budget budget to more cost-effective campaigns, such as Carousel Ads and Influencer Partnerships.
+- **Welcome Series**: Investigate the cause of high cost per signup ($5.14), particularly within Brand Awareness, Re-engagement, and Seasonal types. Also, consider reallocating part of the budget to more cost-effective campaigns, such as Carousel Ads and Influencer Partnerships.
 
 
 
