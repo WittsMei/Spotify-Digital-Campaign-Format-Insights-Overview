@@ -49,7 +49,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 ## Recommendations & Next Step
 
-- **Carousel Ads**: 
+- **Carousel Ads**: Allocate more budget to Carousel Ads within Retention campaign type to maximize ROI. Consider expanding their use to other campaign types where relevant.
 
 
 
