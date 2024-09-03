@@ -65,7 +65,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 
 ## Dashboard
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/SpofityCampaignFormatDashboard/SpotifyCampaignFormatDashboard).
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/SpofityCampaignFormatDashboard/SpotifyCampaignFormatDashboard). This dashboard enables users to filter by plan, campaign type, and platform, and focuses on trends and values in marketing metrics, signup metrics, and duration metrics.
 
 ![Spotify Campaign Format Dashboard](https://github.com/user-attachments/assets/7ef91563-6051-49f8-909c-46f0ce3ecab3)
 
