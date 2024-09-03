@@ -49,7 +49,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 ## Recommendations & Next Step
 
-- **Carousel Ads**: Reallocate budget from Drip Campaigns and Sponsored Posts to Carousel Ads (Retention campaign type) and Influencer Partnership (Brand Awareness campaign type) to maximize ROI. Consider expanding their use to other campaign types where relevant.
+- **Carousel Ads**: Reallocate budget from Drip Campaigns, Sponsored Posts and Search Ads to Carousel Ads (Retention campaign type) and Influencer Partnership (Brand Awareness campaign type) to maximize ROI. Consider expanding their use to other campaign types where relevant.
 - **Video Ads**: Video Ads, while generating the highest impressions and sign-ups, suffer from a low CTR (0.71%). This suggests that while they reach a broad audience, their engagement is relatively weak. Focus on Brand Awareness-type and Cross Cell-type (low cost) marketing, and less on Upsell, Educational, and Seasonal campaign typess, which had low signup rate and CTR.
 
 Drip Campaigns and Sponsored Posts: 
