@@ -11,9 +11,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 
 ## Data Structure
-
-- 
-
+<img width="669" alt="Screenshot 2024-09-03 at 18 13 54" src="https://github.com/user-attachments/assets/32ae7010-cb0e-4fff-a0d9-d082be36d459">
 
 
 ## North Star Metrics & Dimensions
@@ -23,7 +21,6 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 - **Category**: Specific campaign formats like Welcome Series, Search Ads, Sponsored Posts, etc.
 - **Campaign Type**: Acquisition, Retention, Re-engagement.
 - **Time Period**: Year, Month.
-
 
 
 ## Summary of Insights
