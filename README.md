@@ -60,13 +60,8 @@ The dataset consisted of three tables, including information about campaigns, si
 
 
 
-
-
-
-
 ## Dashboard
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/SpofityCampaignFormatDashboard/SpotifyCampaignFormatDashboard). This dashboard enables users to filter by plan, campaign type, and platform, and focuses on trends and values in marketing metrics, signup metrics, and duration metrics.
-
-![Spotify Campaign Format Dashboard](https://github.com/user-attachments/assets/7ef91563-6051-49f8-909c-46f0ce3ecab3)
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/SpofityCampaignFormatDashboard/SpotifyCampaignFormatDashboard?publish=yes). This dashboard enables users to filter by plan, campaign type, and platform, and focuses on trends and values in marketing metrics, signup metrics, and duration metrics.
 
 
+![Spotify Campaign Format Dashboard (1)](https://github.com/user-attachments/assets/f45ca37e-c4a9-466f-8e31-176751ae7ac7)
