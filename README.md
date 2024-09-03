@@ -49,6 +49,24 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
 
 ## Recommendations & Next Step
 
+- **Carousel Ads**: 
+
+
+
+
+
+
+
+Video Ads:
+
+Drip Campaigns and Sponsored Posts: 
+
+Welcome Series:   
+
+Influencer Partnerships: 
+
+Search Ads and Display Ads:
+
 #### Prioritize Carousel Ads for Retention Campaigns:
 
 - Carousel Ads have demonstrated exceptional performance with the highest CTR (5.36%) and a superior sign-up rate (0.048%). Despite generating fewer total sign-ups, their efficiency in converting impressions into sign-ups makes them an ideal format for Retention campaigns.
