@@ -53,7 +53,7 @@ As Spotify strategizes its marketing budget for the upcoming year, a newly forme
   
 - **Influencer Partnerships**: With a sign-up rate twice the average, these campaigns should see increased investment, particularly in the Brand Awareness campaign type. Leveraging influencers to amplify Spotify’s reach can further enhance brand perception and drive sign-ups.
   
-- **Video Ads**: While Video Ads generate the highest impressions and sign-ups, their low CTR (0.71%) indicates weak engagement. This suggests that while they reach a broad audience, their engagement is relatively weak. Focus on Brand Awareness-type and Cross Cell-type (low cost) marketing, and less on Upsell, Educational, and Seasonal campaign typess, which had low signup rate and CTR.
+- **Video Ads**: While Video Ads generate the highest impressions and sign-ups, their low CTR (0.71%) indicates weak engagement. This indicates that although they reach a wide audience, their ability to convert clicks into sign-ups is limited. To address this, focus on Brand Awareness-type and Cross Cell-type (low cost) marketing, and less on Upsell, Educational, and Seasonal campaign typess, which had low signup rate and CTR.
   
 - **Welcome Series**: Investigate the cause of high cost per signup ($5.14), particularly within Brand Awareness, Re-engagement, and Seasonal types. Also, consider reallocating a portion of the budget budget to more cost-effective campaigns, such as Carousel Ads and Influencer Partnerships.
 
