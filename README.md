@@ -41,7 +41,7 @@ The dataset consisted of three tables, including information about campaigns, si
 - Interestingly, despite having the highest sign-up rate and a relatively low cost per sign-up, Carousel Ads generated the fewest total sign-ups, with only 7,475.
 
 ### Cost per Sign-Up
-- Across campaign categories, Welcome Series had the highest cost per sign-up at $5.14, coupled with a mediocre sign-up rate of 0.008% and highest sign-ups, compared to an average of $2.07.
+- Across campaign categories, Welcome Series had the highest cost per sign-up at $5.14, coupled with a mediocre sign-up rate and highest sign-ups, compared to an average of $2.07.
 - The elevated cost per sign-up for Welcome Series was driven by the Brand Awareness, Re-engagement, and Seasonal campaign types, with costs ranging from $7 to $10.
 - Search Ads (Acquisition campaign type) and Display Ads (Content Promotion campaign type) also encountered notably high CACs, at $12.54 and $7.94, respectively. Search Ads in particular had the lowest sign-up rate at 0.005%.
  
